@@ -1,4 +1,4 @@
-// This is PHP developer test assignment. Time: 1-3 hours.
+// This is PHP developer test assignment. Time: 1 hour.
 
 
 Написать на PHP парсер html страницы (на входе url), который
